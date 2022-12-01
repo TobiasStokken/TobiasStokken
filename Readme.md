@@ -1,6 +1,6 @@
 # Hei!
-👋 Jeg går IT vg2 på haugaland VGS. <br>
-😄 Jeg er veldi interesert i it.
+👋 Jeg går IT VG2 på Haugaland VGS. <br>
+😄 Jeg er veldi interesert i IT.
 <br><br>
 <div id="badges">
   <a href="https://www.linkedin.com/in/tobias-stokken-54b83a235/">
